@@ -1,0 +1,44 @@
+{
+  "lanes": [
+    {
+      "id": "1",
+      "name": "To Do",
+      "tickets": [
+        {
+          "id": "302",
+          "title": "Deploy version 2.1 to production",
+          "author": "Anna Lee",
+          "created_at": "2024-06-16T16:30:00Z",
+          "priority": "Medium",
+          "comments_count": 4
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "In Progress",
+      "tickets": [
+        {
+          "id": "301",
+          "title": "Fix bug causing crashes",
+          "author": "Michael Johnson",
+          "created_at": "2024-06-17T14:00:00Z",
+          "priority": "Low",
+          "comments_count": 10
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Done",
+      "tickets": [
+        {
+          "title": "create kanbn broad",
+          "description": "create kanbn broad",
+          "linkIssue": "create kanbn broad",
+          "priority": "Low Level"
+        }
+      ]
+    }
+  ]
+}
